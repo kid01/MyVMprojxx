@@ -1,0 +1,13 @@
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\bin\Debug\UnderstandingRoutedEventArgs.exe
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\bin\Debug\UnderstandingRoutedEventArgs.pdb
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\MainWindow.baml
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\MainWindow.g.cs
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\App.g.cs
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\UnderstandingRoutedEventArgs_MarkupCompile.cache
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\UnderstandingRoutedEventArgs.g.resources
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\UnderstandingRoutedEventArgs.Properties.Resources.resources
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\UnderstandingRoutedEventArgs.exe
+c:\Practice\UnderstandingRoutedEventArgs\UnderstandingRoutedEventArgs\obj\x86\Debug\UnderstandingRoutedEventArgs.pdb

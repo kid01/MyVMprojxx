@@ -1,0 +1,40 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="92209A2E-9232-4117-9276-C831DB2921E1/f:MainWindow.xaml.cs" caret="858" fromTop="29" />
+      <File id="92209A2E-9232-4117-9276-C831DB2921E1/f:MainWindow.xaml" caret="399" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="92209A2E-9232-4117-9276-C831DB2921E1/f:MainWindow.xaml" caret="917" fromTop="8" />
+      <File id="92209A2E-9232-4117-9276-C831DB2921E1/f:MainWindow.xaml" caret="399" fromTop="6" />
+      <File id="92209A2E-9232-4117-9276-C831DB2921E1/f:MainWindow.xaml.cs" caret="858" fromTop="29" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="e" priority="0" />
+      <Item value="true" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.MouseButtonEventArgs">
+      <Item value="Handled" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
