@@ -1,0 +1,46 @@
+﻿<Window x:Class="TextEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:TextEditor"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.CommandBindings>
+        <CommandBinding Command="ApplicationCommands.New"
+                        Executed="NewDocument" />
+        
+        <CommandBinding Command="ApplicationCommands.Open"
+                        Executed="OpenDocument" />
+        
+        <CommandBinding Command="ApplicationCommands.Save"
+                        CanExecute="SaveDocument_CanExecute"
+                        Executed="SaveDocument" />
+        
+        <CommandBinding Command="ApplicationCommands.SaveAs"
+                        Executed="SaveDocumentAs" />
+        
+        <CommandBinding Command="ApplicationCommands.Close"
+                        Executed="ApplicationClose" />
+    </Window.CommandBindings>
+    <Window.InputBindings>
+        <KeyBinding  Key="s"
+                     Modifiers="Shift"
+                     Command="ApplicationCommands.SaveAs" />
+    </Window.InputBindings>
+    <DockPanel>
+        <local:TextEditorMenu x:Name="menu" DockPanel.Dock="Top" />
+
+        <local:TextEditorToolbar x:Name="toolbar" 
+                                 DockPanel.Dock="Top"
+                                 ComboBox.SelectionChanged="TextEditorToolbar_SelectionChanged"/>
+
+    	<StatusBar DockPanel.Dock="Bottom">
+            <TextBlock x:Name="status" Text="status"/>
+        </StatusBar>    
+        <RichTextBox x:Name="body"
+                     SelectionChanged="body_SelectionChanged"
+                     SpellCheck.IsEnabled="true"
+                     AcceptsReturn="True"
+                     AcceptsTab="True"
+                     BorderThickness="0 2 0 0"/>
+    </DockPanel>
+        
+</Window>

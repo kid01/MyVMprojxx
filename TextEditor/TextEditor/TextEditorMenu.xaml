@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="TextEditor.TextEditorMenu"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Menu>
+        <MenuItem Header="_File">
+            <MenuItem Command="ApplicationCommands.New"/>
+            <MenuItem Command="ApplicationCommands.Open" />
+            <MenuItem Command="ApplicationCommands.Save" />
+            <MenuItem Command="ApplicationCommands.SaveAs" />
+            <MenuItem Command="ApplicationCommands.Close"/>
+            <Separator />
+            <MenuItem Header="_Print" />
+            <Separator />
+            <MenuItem Header="Close" />
+        </MenuItem>
+        <MenuItem Header="_Edit">
+            <MenuItem Command="ApplicationCommands.Undo" />
+            <MenuItem Command="ApplicationCommands.Redo" />
+            <Separator />
+            <MenuItem Command="ApplicationCommands.Cut" />
+            <MenuItem Command="ApplicationCommands.Copy" />
+            <MenuItem Command="ApplicationCommands.Paste" />
+            <MenuItem Command="ApplicationCommands.Delete" />
+        </MenuItem>
+        <MenuItem Header="_Help">
+            <MenuItem Header="_About"
+Click="About_Click" />
+        </MenuItem>
+    </Menu>
+</UserControl>

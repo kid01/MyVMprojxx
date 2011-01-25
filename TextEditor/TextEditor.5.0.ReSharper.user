@@ -1,0 +1,121 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml" caret="353" fromTop="6" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorMenu.xaml" caret="873" fromTop="21" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorMenu.xaml.cs" caret="915" fromTop="34" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:App.xaml" caret="0" fromTop="0" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:DocumentManager.cs" caret="2035" fromTop="34" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:MainWindow.xaml" caret="932" fromTop="9" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="2550" fromTop="41" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:MainWindow.xaml.cs" caret="997" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorMenu.xaml.cs" caret="635" fromTop="24" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorMenu.xaml.cs" caret="1000" fromTop="21" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:MainWindow.xaml" caret="343" fromTop="5" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:App.xaml" caret="0" fromTop="0" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:DocumentManager.cs" caret="0" fromTop="0" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:DocumentManager.cs" caret="328" fromTop="13" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:DocumentManager.cs" caret="1734" fromTop="39" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:DocumentManager.cs" caret="454" fromTop="18" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="233" fromTop="1" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml" caret="926" fromTop="8" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml" caret="1131" fromTop="5" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml" caret="1305" fromTop="9" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml" caret="1483" fromTop="7" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml" caret="353" fromTop="6" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:MainWindow.xaml" caret="554" fromTop="6" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:MainWindow.xaml.cs" caret="1629" fromTop="36" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:DocumentManager.cs" caret="2036" fromTop="41" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:DocumentManager.cs" caret="2035" fromTop="40" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:MainWindow.xaml.cs" caret="1557" fromTop="35" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:MainWindow.xaml.cs" caret="1197" fromTop="29" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:MainWindow.xaml" caret="979" fromTop="10" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="1846" fromTop="41" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="1848" fromTop="39" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="1213" fromTop="21" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="861" fromTop="12" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="1512" fromTop="26" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="1497" fromTop="23" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="2102" fromTop="37" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:TextEditorToolbar.xaml.cs" caret="2540" fromTop="41" />
+      <File id="192CD052-99AA-4268-B089-281058F13C1C/f:MainWindow.xaml.cs" caret="997" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="1" />
+      <Item value="DocumentManager`0" priority="1" />
+      <Item value="if" priority="2" />
+      <Item value="_documentManager" priority="2" />
+      <Item value="BindingStatus`0" priority="6" />
+      <Item value="as" priority="0" />
+      <Item value="ComboBox`0" priority="0" />
+      <Item value="source" priority="3" />
+      <Item value="return" priority="0" />
+      <Item value="switch" priority="0" />
+      <Item value="LineBreak`0" priority="0" />
+      <Item value="case" priority="0" />
+      <Item value="break" priority="1" />
+      <Item value="body" priority="0" />
+      <Item value="TextBlock`0" priority="2" />
+      <Item value="object" priority="0" />
+      <Item value="selection" priority="0" />
+      <Item value="boldButton" priority="0" />
+      <Item value="FontWeight`0" priority="0" />
+      <Item value="FontWeight" priority="0" />
+      <Item value="weight" priority="0" />
+      <Item value="FontWeights`0" priority="0" />
+      <Item value="false" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TextEditor.DocumentManager">
+      <Item value="OpenDocument`0" priority="0" />
+      <Item value="ApplyToSelection`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.SelectionChangedEventArgs">
+      <Item value="OriginalSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RichTextBox">
+      <Item value="Focus`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.TextBlock">
+      <Item value="FontFamilyProperty" priority="0" />
+      <Item value="FontSizeProperty" priority="0" />
+      <Item value="FontWeightProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="SelectedItem" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.TextSelection">
+      <Item value="GetPropertyValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Primitives.ToggleButton">
+      <Item value="IsChecked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FontWeights">
+      <Item value="Bold" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
