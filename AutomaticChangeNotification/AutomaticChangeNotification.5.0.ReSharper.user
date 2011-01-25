@@ -1,0 +1,55 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:MainWindow.xaml" caret="692" fromTop="7" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:MainWindow.xaml.cs" caret="867" fromTop="22" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:Person.cs" caret="511" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:MainWindow.xaml.cs" caret="701" fromTop="23" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:MainWindow.xaml.cs" caret="445" fromTop="17" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:MainWindow.xaml.cs" caret="454" fromTop="13" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:MainWindow.xaml" caret="619" fromTop="6" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:MainWindow.xaml.cs" caret="855" fromTop="21" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:Person.cs" caret="388" fromTop="16" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:Person.cs" caret="414" fromTop="17" />
+      <File id="5FA53887-2B72-410E-8EAB-24CF8CF367CC/f:Person.cs" caret="623" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="1" />
+      <Item value="String`0" priority="1" />
+      <Item value="public" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="_firstName" priority="0" />
+      <Item value="event" priority="0" />
+      <Item value="EventHandler`0" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="OnFirstNameChanged`0" priority="1" />
+      <Item value="FirstNameChanged" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="EventArgs`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

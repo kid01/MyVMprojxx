@@ -1,0 +1,13 @@
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\bin\Debug\AutomaticChangeNotification.exe
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\bin\Debug\AutomaticChangeNotification.pdb
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\MainWindow.baml
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\MainWindow.g.cs
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\App.g.cs
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\AutomaticChangeNotification_MarkupCompile.cache
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\AutomaticChangeNotification.g.resources
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\AutomaticChangeNotification.Properties.Resources.resources
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\AutomaticChangeNotification.exe
+c:\Practice\AutomaticChangeNotification\AutomaticChangeNotification\obj\x86\Debug\AutomaticChangeNotification.pdb
