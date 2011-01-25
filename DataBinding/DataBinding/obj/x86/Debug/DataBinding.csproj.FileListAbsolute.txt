@@ -1,0 +1,13 @@
+c:\Practice\DataBinding\DataBinding\bin\Debug\DataBinding.exe
+c:\Practice\DataBinding\DataBinding\bin\Debug\DataBinding.pdb
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\MainWindow.baml
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\MainWindow.g.cs
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\App.g.cs
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\DataBinding_MarkupCompile.cache
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\DataBinding.g.resources
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\DataBinding.Properties.Resources.resources
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\DataBinding.exe
+c:\Practice\DataBinding\DataBinding\obj\x86\Debug\DataBinding.pdb
