@@ -1,0 +1,17 @@
+c:\Practice\FontViewer\FontViewer\bin\Debug\FontViewer.exe
+c:\Practice\FontViewer\FontViewer\bin\Debug\FontViewer.pdb
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\MainWindow.baml
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\MainWindow.g.cs
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\App.g.cs
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\FontViewer_MarkupCompile.cache
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\FontViewer.g.resources
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\FontViewer.Properties.Resources.resources
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\FontViewer.exe
+c:\Practice\FontViewer\FontViewer\obj\x86\Debug\FontViewer.pdb
+C:\Practice\FontViewer\FontViewer\obj\x86\Debug\TextPreviewControl.baml
+C:\Practice\FontViewer\FontViewer\obj\x86\Debug\TextPreviewControl.g.cs
+C:\Practice\FontViewer\FontViewer\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Practice\FontViewer\FontViewer\obj\x86\Debug\FontViewer_MarkupCompile.lref

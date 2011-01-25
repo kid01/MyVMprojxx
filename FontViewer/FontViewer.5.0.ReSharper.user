@@ -1,0 +1,51 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:TextPreviewControl.xaml" caret="394" fromTop="4" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:App.xaml" caret="0" fromTop="0" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml.cs" caret="715" fromTop="21" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="268" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="10" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="9" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="337" fromTop="0" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="0" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="0" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="7" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="6" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="9" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="8" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="3" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1658" fromTop="7" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="915" fromTop="4" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1203" fromTop="4" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:TextPreviewControl.xaml" caret="679" fromTop="5" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:TextPreviewControl.xaml" caret="922" fromTop="5" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:TextPreviewControl.xaml" caret="1203" fromTop="7" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:TextPreviewControl.xaml" caret="1484" fromTop="9" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:TextPreviewControl.xaml" caret="1766" fromTop="8" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="1589" fromTop="7" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:TextPreviewControl.xaml" caret="394" fromTop="4" />
+      <File id="A71A9B86-4139-47C4-A0FD-7CD31099F200/f:MainWindow.xaml" caret="268" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
