@@ -1,0 +1,64 @@
+﻿<Window x:Class="SimpleContactForm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Simple Contact Form"
+        Height="300"
+        Width="300"
+        FocusManager.FocusedElement="{Binding ElementName=firstName}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        
+        <Button Grid.Row="4"
+                Grid.Column="1"
+                HorizontalAlignment="right"
+                Content="Save"
+                Click="Button_Click" />
+        <Label Target="{Binding ElementName=firstName}">
+            <Border BorderBrush="blue"
+                    BorderThickness="2 0"
+                    CornerRadius="3"
+                    Padding="3">
+                <AccessText>_First Name:</AccessText>
+                
+            </Border>
+        </Label>    
+        <TextBox x:Name="firstName"
+                 Grid.Column="1" />
+        <Label Grid.Row="1"
+               Content="Last Name:" 
+               Target="{Binding ElementName=lastName}"/>
+        <TextBox x:Name="lastName"
+                 Grid.Row="1"
+                 Grid.Column="1" />
+        <Label Grid.Row="2"
+               Content="Se_x:" 
+               Target="{Binding ElementName=sex}"/>
+        <TextBox x:Name="sex"
+                 Grid.Row="2"
+                 Grid.Column="1" />
+        <Label Grid.Row="3"
+               Content="Additional Notes:" 
+               Target="{Binding ElementName=additinalNotes}"/>
+        
+        <TextBox x:Name="additionalNotes"
+                 Grid.Row="3"
+                 Grid.Column="1"
+                 AcceptsReturn="true"
+                 AcceptsTab="true"
+                 TextWrapping="wrap"
+                 VerticalAlignment="Stretch"
+                 SpellCheck.IsEnabled="true"
+                 ToolTip="type additional notes here." />
+
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+c:\Practice\SimpleContactForm\SimpleContactForm\bin\Debug\SimpleContactForm.exe
+c:\Practice\SimpleContactForm\SimpleContactForm\bin\Debug\SimpleContactForm.pdb
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\MainWindow.baml
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\MainWindow.g.cs
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\App.g.cs
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\SimpleContactForm_MarkupCompile.cache
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\SimpleContactForm.g.resources
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\SimpleContactForm.Properties.Resources.resources
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\SimpleContactForm.exe
+c:\Practice\SimpleContactForm\SimpleContactForm\obj\x86\Debug\SimpleContactForm.pdb

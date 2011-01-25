@@ -1,0 +1,40 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml.cs" caret="724" fromTop="27" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="1082" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="2378" fromTop="11" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="265" fromTop="4" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="2292" fromTop="8" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="2088" fromTop="2" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="1510" fromTop="8" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="1729" fromTop="11" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="1966" fromTop="11" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="1305" fromTop="10" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="1195" fromTop="6" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="514" fromTop="3" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml" caret="972" fromTop="11" />
+      <File id="7DA322F8-A48A-4CE3-B29A-C8318C2D5977/f:MainWindow.xaml.cs" caret="724" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

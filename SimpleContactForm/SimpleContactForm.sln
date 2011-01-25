@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleContactForm", "SimpleContactForm\SimpleContactForm.csproj", "{7DA322F8-A48A-4CE3-B29A-C8318C2D5977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA322F8-A48A-4CE3-B29A-C8318C2D5977}.Debug|x86.ActiveCfg = Debug|x86
+		{7DA322F8-A48A-4CE3-B29A-C8318C2D5977}.Debug|x86.Build.0 = Debug|x86
+		{7DA322F8-A48A-4CE3-B29A-C8318C2D5977}.Release|x86.ActiveCfg = Release|x86
+		{7DA322F8-A48A-4CE3-B29A-C8318C2D5977}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
