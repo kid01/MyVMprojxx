@@ -1,0 +1,35 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A67F9636-4B7D-4141-9701-3C2149059032/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
+      <File id="A67F9636-4B7D-4141-9701-3C2149059032/f:MainWindow.xaml" caret="291" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A67F9636-4B7D-4141-9701-3C2149059032/f:MainWindow.xaml" caret="292" fromTop="4" />
+      <File id="A67F9636-4B7D-4141-9701-3C2149059032/f:MainWindow.xaml.cs" caret="749" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

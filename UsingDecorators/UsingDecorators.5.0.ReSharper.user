@@ -1,0 +1,34 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="04A239E4-4940-420F-BEB1-429951A734D2/f:MainWindow.xaml" caret="392" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="04A239E4-4940-420F-BEB1-429951A734D2/f:MainWindow.xaml" caret="446" fromTop="6" />
+      <File id="04A239E4-4940-420F-BEB1-429951A734D2/f:MainWindow.xaml" caret="446" fromTop="0" />
+      <File id="04A239E4-4940-420F-BEB1-429951A734D2/f:MainWindow.xaml" caret="446" fromTop="0" />
+      <File id="04A239E4-4940-420F-BEB1-429951A734D2/f:MainWindow.xaml" caret="900" fromTop="11" />
+      <File id="04A239E4-4940-420F-BEB1-429951A734D2/f:MainWindow.xaml" caret="417" fromTop="9" />
+      <File id="04A239E4-4940-420F-BEB1-429951A734D2/f:MainWindow.xaml" caret="874" fromTop="8" />
+      <File id="04A239E4-4940-420F-BEB1-429951A734D2/f:MainWindow.xaml" caret="392" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
