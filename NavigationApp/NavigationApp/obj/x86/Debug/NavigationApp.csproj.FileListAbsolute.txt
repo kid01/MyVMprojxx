@@ -1,0 +1,17 @@
+c:\Practice\NavigationApp\NavigationApp\bin\Debug\NavigationApp.exe
+c:\Practice\NavigationApp\NavigationApp\bin\Debug\NavigationApp.pdb
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\Page1.baml
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\Page2.baml
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\Page1.g.cs
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\Page2.g.cs
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\App.g.cs
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\NavigationApp_MarkupCompile.cache
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\NavigationApp.g.resources
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\NavigationApp.Properties.Resources.resources
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\NavigationApp.exe
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\NavigationApp.pdb
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\MainFrame.baml
+c:\Practice\NavigationApp\NavigationApp\obj\x86\Debug\MainFrame.g.cs

@@ -1,0 +1,9 @@
+﻿<Window x:Class="NavigationApp.MainFrame"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainFrame" Height="300" Width="300">
+    <DockPanel>
+        <TextBlock DockPanel.Dock="Top">The Main Frame</TextBlock>
+        <Frame Source="Page1.xaml" />
+    </DockPanel>
+</Window>
