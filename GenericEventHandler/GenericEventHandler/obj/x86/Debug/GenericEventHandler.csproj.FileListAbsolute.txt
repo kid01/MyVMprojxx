@@ -1,0 +1,13 @@
+c:\Practice\GenericEventHandler\GenericEventHandler\bin\Debug\GenericEventHandler.exe
+c:\Practice\GenericEventHandler\GenericEventHandler\bin\Debug\GenericEventHandler.pdb
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\MainWindow.baml
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\MainWindow.g.cs
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\App.g.cs
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\GenericEventHandler_MarkupCompile.cache
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\GenericEventHandler.g.resources
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\GenericEventHandler.Properties.Resources.resources
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\GenericEventHandler.exe
+c:\Practice\GenericEventHandler\GenericEventHandler\obj\x86\Debug\GenericEventHandler.pdb

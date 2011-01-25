@@ -1,0 +1,17 @@
+﻿<Window x:Class="GenericEventHandler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel ButtonBase.Click="StackPanel_Click">
+            <Button Content="Red" Foreground="Red"/>
+            <Button Content="Green" Foreground="Green" />
+            <Button Content="Blue" Foreground="Blue" />
+            <TextBlock x:Name="outPut"
+                       HorizontalAlignment="Center"
+                       Text="What Color Will You Choose?"
+                       />
+        </StackPanel>
+
+    </Grid>
+</Window>

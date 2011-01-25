@@ -1,0 +1,50 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="01C4C97F-1240-4EF4-A7A8-4F7CEE2D4E6E/f:MainWindow.xaml.cs" caret="897" fromTop="29" />
+      <File id="01C4C97F-1240-4EF4-A7A8-4F7CEE2D4E6E/f:MainWindow.xaml" caret="658" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="01C4C97F-1240-4EF4-A7A8-4F7CEE2D4E6E/f:MainWindow.xaml" caret="683" fromTop="8" />
+      <File id="01C4C97F-1240-4EF4-A7A8-4F7CEE2D4E6E/f:MainWindow.xaml.cs" caret="897" fromTop="29" />
+      <File id="01C4C97F-1240-4EF4-A7A8-4F7CEE2D4E6E/f:MainWindow.xaml" caret="658" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Button`0" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="outPut" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="button" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="0" />
+      <Item value="Background" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Foreground" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
