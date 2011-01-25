@@ -1,0 +1,13 @@
+c:\Practice\PreviewEvents\PreviewEvents\bin\Debug\PreviewEvents.exe
+c:\Practice\PreviewEvents\PreviewEvents\bin\Debug\PreviewEvents.pdb
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\MainWindow.baml
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\MainWindow.g.cs
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\App.g.cs
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\PreviewEvents_MarkupCompile.cache
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\PreviewEvents.g.resources
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\PreviewEvents.Properties.Resources.resources
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\PreviewEvents.exe
+c:\Practice\PreviewEvents\PreviewEvents\obj\x86\Debug\PreviewEvents.pdb

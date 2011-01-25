@@ -1,0 +1,35 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7DA45E60-69A7-4F95-B9C1-E8276DCE50B6/f:MainWindow.xaml.cs" caret="803" fromTop="27" />
+      <File id="7DA45E60-69A7-4F95-B9C1-E8276DCE50B6/f:MainWindow.xaml" caret="367" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7DA45E60-69A7-4F95-B9C1-E8276DCE50B6/f:MainWindow.xaml" caret="1082" fromTop="11" />
+      <File id="7DA45E60-69A7-4F95-B9C1-E8276DCE50B6/f:MainWindow.xaml" caret="1082" fromTop="11" />
+      <File id="7DA45E60-69A7-4F95-B9C1-E8276DCE50B6/f:MainWindow.xaml" caret="990" fromTop="11" />
+      <File id="7DA45E60-69A7-4F95-B9C1-E8276DCE50B6/f:MainWindow.xaml" caret="367" fromTop="6" />
+      <File id="7DA45E60-69A7-4F95-B9C1-E8276DCE50B6/f:MainWindow.xaml.cs" caret="1090" fromTop="35" />
+      <File id="7DA45E60-69A7-4F95-B9C1-E8276DCE50B6/f:MainWindow.xaml.cs" caret="1077" fromTop="32" />
+      <File id="7DA45E60-69A7-4F95-B9C1-E8276DCE50B6/f:MainWindow.xaml.cs" caret="803" fromTop="27" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

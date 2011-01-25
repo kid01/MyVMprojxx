@@ -1,0 +1,27 @@
+﻿<Window x:Class="PreviewEvents.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        KeyDown="Handler"
+        PreviewKeyDown="Handler"
+        Title="Window1" Height="300" Width="300">
+    <DockPanel KeyDown="Handler"
+               PreviewKeyDown="Handler">
+        <ListBox x:Name="Output"
+                 DockPanel.Dock="Left"
+                 Margin="0 0 10 0"
+                 KeyDown="Handler"
+                 PreviewKeyDown="Handler"/>
+        <Grid KeyDown="Handler"
+              PreviewKeyDown="Handler">
+            <StackPanel KeyDown="Handler"
+                        PreviewKeyDown="Handler">
+                <Button KeyDown="Handler"
+                        PreviewKeyDown="Handler"
+                        Content="My Button"/>
+                <TextBox KeyDown="Handler"
+                         PreviewKeyDown="Handler"
+                         Text="My TextBox"/>
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>
